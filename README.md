@@ -1,28 +1,28 @@
-Currículum Vitae
+## Resume
 
-Este proyecto es una página web de mi currículum vitae, desarrollada utilizando HTML y CSS. La página presenta mi información profesional, habilidades, experiencia laboral, educación y otros detalles relevantes.
+This project is a resume web page, developed using HTML and CSS. The page presents my professional information, skills, work experience, education and other relevant details.
 
-## Descripción
+## Description
 
-La página web está diseñada para ser simple, elegante y fácil de navegar. Utiliza HTML para la estructura del contenido y CSS para el estilo y diseño visual.
+The website is designed to be simple, elegant and easy to navigate. It uses HTML for content structure and CSS for styling and visual design.
 
-## Características
+## Features
 
-- **Diseño Responsivo:** La página se adapta a diferentes tamaños de pantalla, incluyendo dispositivos móviles.
-- **Navegación Sencilla:** El contenido está organizado de manera clara con secciones diferenciadas.
-- **Estilo Personalizado:** El diseño visual está adaptado a mi estilo y preferencias personales.
+- Responsive Design:** The site adapts to different screen sizes, including mobile devices.
+- Simple Navigation:** The content is organized in a clear way with differentiated sections.
+- Custom Style:** The visual design is adapted to my personal style and preferences.
 
-## Estructura del Proyecto
+## Project Structure
 
-- `index.html`: Contiene la estructura principal de la página.
-- `styles.css`: Contiene todos los estilos CSS aplicados a la página.
+- index.html`: Contains the main structure of the page.
+- styles.css`: Contains all the CSS styles applied to the page.
 
-## Cómo Ver la Página
+## How to View the Page
 
-Para ver la página web en tu navegador, simplemente abre el archivo `index.html` en tu navegador preferido.
+To view the web page in your browser, simply open the `index.html` file in your preferred browser.
 
-## Próximos Pasos
+## Next Steps
 
-- Añadir más detalles en la sección de proyectos.
-- Mejorar la accesibilidad del sitio web.
-- Optimizar las imágenes y recursos para una carga más rápida.
+- Add more details in the projects section.
+- Improve the accessibility of the website.
+- Optimize images and resources for faster loading.
