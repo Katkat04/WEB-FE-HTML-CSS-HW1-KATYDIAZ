@@ -1,0 +1,10 @@
+header {
+  background: url('images/bannerfinal.jpg') ;
+  padding : 5px 0 5px 20px;
+}
+img {
+  border-radius: 50%;
+  position: absolute;
+  left: 1000px;
+  top: 52px;
+}
