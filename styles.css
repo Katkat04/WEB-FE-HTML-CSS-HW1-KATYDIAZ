@@ -13,5 +13,33 @@ section {
   background-color: #f9f9f9;
   border: 1px solid #ddd;
   margin: 12px;
-  padding: 20px;
+  padding: 5px 20px 5px 20px;
+}
+footer{
+  background: url('images/bannerfinal.jpg') ;
+  padding : 5px 0 5px 5px;
+  margin: 12px;
+}
+h1{
+  font-family: Georgia, serif;
+}
+h2{
+  font-family: Georgia, serif;
+}
+h3{
+  font-family: Georgia, serif; 
+}
+h4{
+  font-family: Georgia, serif;
+  text-align: center;
+}
+p{
+  font-family: Georgia, serif;
+}
+li{
+  font-family: Georgia, serif;
+}
+li1{
+  color:blue;
+  font-weight: bold;
 }
